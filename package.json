@@ -12,7 +12,9 @@
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1",
-    "sqlite3": "^5.1.7"
+    "better-sqlite3": "^9.4.0"
+
+   
   },
   "engines": {
   "node": "18.x"
